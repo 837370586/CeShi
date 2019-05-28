@@ -4,5 +4,6 @@ public class BBB {
 
     public static void main(String[] args) {
         System.out.println("BBBB");
+        System.out.println("cccc");
     }
 }
